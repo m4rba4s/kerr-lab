@@ -54,6 +54,7 @@ This simulation visualizes the **Kerr Metric**, an exact solution to the Einstei
 ## ⚠️ Performance Note
 This simulation performs heavy trigonometric calculations for 800+ particles and grid vertices in real-time on the CPU.
 *   **Recommended:** Ryzen 7 / Core i7 or better.
-
+*   
+License MIT
 ---
 *Created for educational purposes. Code is open and free.*
